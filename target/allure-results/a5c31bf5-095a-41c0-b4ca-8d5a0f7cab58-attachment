@@ -1,0 +1,1 @@
+java.lang.AssertionError: The actual text is 'Epic sadface: Username is required' not equals 'Epic sadface: Username and password do not match any user in this service' expected [Epic sadface: Username and password do not match any user in this service] but found [Epic sadface: Username is required]

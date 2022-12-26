@@ -1,0 +1,2 @@
+org.testng.TestNGException: 
+Method public void TestCase.CheckoutProcessTest.getEmptyFirstName(java.util.Hashtable) requires a @DataProvider named : getDataCheckoutOneHashTable1 in class Setup.project.dataprovider.CartDataProvider

@@ -1,0 +1,1 @@
+java.lang.NullPointerException: Cannot invoke "Setup.project.pages.ProductsDetail.ProductDetailsPage.getProductsDetail()" because "this.productDetailPage" is null

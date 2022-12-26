@@ -1,0 +1,3 @@
+org.testng.TestNGException: 
+Cannot inject @Test annotated Method [verifyProdsInCheckoutTwoProcess] with [class java.util.Hashtable].
+For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection

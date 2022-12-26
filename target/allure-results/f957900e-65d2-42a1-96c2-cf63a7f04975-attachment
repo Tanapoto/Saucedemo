@@ -1,0 +1,1 @@
+java.lang.AssertionError: Link of product detail page not match. expected [true] but found [false]

@@ -1,0 +1,1 @@
+java.lang.AssertionError: The actual text is 'Epic sadface: Username is required' not equals 'Login failed. Can not redirect to Dashboard page.' expected [Login failed. Can not redirect to Dashboard page.] but found [Epic sadface: Username is required]

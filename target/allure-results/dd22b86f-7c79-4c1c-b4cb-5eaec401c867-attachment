@@ -1,0 +1,1 @@
+Get text of element By.xpath: //div[1]/div[5]/div[@class='inventory_item_description']/div[1]/a[1]/div[1]

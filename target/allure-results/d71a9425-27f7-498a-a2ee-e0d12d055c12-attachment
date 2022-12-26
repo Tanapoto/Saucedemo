@@ -1,0 +1,1 @@
+java.lang.AssertionError: Object: By.xpath: //input[@id='last-name']. Not found value:  with attribute type: value. Actual get Attribute value is: Trusova

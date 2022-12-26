@@ -1,0 +1,1 @@
+Set text secret_sauce on By.xpath: //input[@id='password']

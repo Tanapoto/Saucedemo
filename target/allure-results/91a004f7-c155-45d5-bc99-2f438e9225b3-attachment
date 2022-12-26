@@ -1,0 +1,1 @@
+java.lang.NullPointerException: Cannot invoke "Setup.project.pages.Login.LoginPage.loginSuccessfully(java.util.Hashtable)" because "this.loginPage" is null

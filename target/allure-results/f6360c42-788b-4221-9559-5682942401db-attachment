@@ -1,0 +1,2 @@
+java.lang.AssertionError: The actual text is $29.99 
+and expected text is 29.99 expected [true] but found [false]

@@ -1,0 +1,1 @@
+Verify image is not broken By.xpath: //div[@class='inventory_item']/div[1]/a[1]/img[1]

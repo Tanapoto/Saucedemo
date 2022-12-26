@@ -1,0 +1,1 @@
+java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Sheet.getLastRowNum()" because "this.sheet" is null

@@ -1,0 +1,5 @@
+org.testng.internal.reflect.MethodMatcherException: 
+[public void TestCase.CartTest.getProdsInCartAndHandleButton()] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: getProdsInCartAndHandleButton([])
+Arguments: [(java.util.Hashtable) {CART_LINK=https://www.saucedemo.com/cart.html, LIST_PROD_LINK=https://www.saucedemo.com/inventory.html, PRODUCT_DESCRIPTION=carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection., TESTCASEID=getCaseData, CHECKOUT_LINK=https://www.saucedemo.com/checkout-step-one.html, PRODUCT_PRICE=29.99, PRODUCT_NAME=Sauce Labs Backpack}]

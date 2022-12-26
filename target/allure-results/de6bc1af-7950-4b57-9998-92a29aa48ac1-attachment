@@ -1,0 +1,1 @@
+java.lang.NullPointerException: Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, com.aventstack.extentreports.model.Media)" because the return value of "Common.report.ExtentTestManager.getExtentTest()" is null

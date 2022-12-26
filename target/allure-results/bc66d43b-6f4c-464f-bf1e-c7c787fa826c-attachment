@@ -1,0 +1,1 @@
+java.lang.AssertionError: [Price] Row 1 ($29.99) don't equals expected [true] but found [false]

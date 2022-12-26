@@ -1,0 +1,1 @@
+java.lang.AssertionError: Element not exist. By.xpath: //button[@id='checkout']

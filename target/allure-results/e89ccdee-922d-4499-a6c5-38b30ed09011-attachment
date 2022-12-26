@@ -1,0 +1,1 @@
+java.lang.AssertionError: Element not exist. By.xpath: //div[1]/div[1]/div[@class='pricebar']/div[@class='inventory_item_price']
